@@ -1,3 +1,4 @@
 # Learning
  GIT AND GIT HUB LEARNING
-Auther - PIYUSH CHOUHAN
+ <br>
+Author - PIYUSH CHOUHAN
